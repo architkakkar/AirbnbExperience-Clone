@@ -11,4 +11,4 @@ You can view and interact with the Figma design file by following this link: <a 
 
 ## Preview
 
-<img src="https://github.com/architkakkar/ReactFacts-App/blob/main/design/desktop-design.jpeg" alt="design" width="80%" />
+<img src="https://github.com/architkakkar/AirbnbExperience-Clone/blob/main/design/desktop-design.jpeg" alt="design" width="80%" />
