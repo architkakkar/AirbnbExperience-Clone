@@ -23,13 +23,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repository: `git clone https://github.com/architkakkar/AirbnbExperience-Clone.git`
-
 2. Navigate to the project directory: `cd AirbnbExperience-Clone`
-
 3. Install the dependencies: `npm install`
-
 4. Start the development server: `npm run dev`
-
 
 The app will be available at `http://localhost:5173` in your web browser.
 
