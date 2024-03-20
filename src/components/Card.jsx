@@ -5,7 +5,7 @@ function Card({ image, tag, rating, review, country, title, price }) {
     return (
         <div className="w-56 hover:shadow-[0px_0px_5px_rgba(0,0,0,0.3)] cursor-pointer rounded-lg p-2 md:w-52 sm:w-full sm:p-4">
             <div className="relative rounded-md">
-                <img src={image} alt="card1-img" className="rounded-md h-[275px] w-full object-cover" />
+                <img src={image} alt="card-img" className="rounded-md h-[275px] w-full object-cover" />
                 {/*
                     my approach to do conditional rendering
                     (tag != "") ? <span className="absolute top-2.5 left-2.5 bg-white text-slate-950 text-sm uppercase rounded-sm px-2 py-0.5">{tag}</span> : <></>

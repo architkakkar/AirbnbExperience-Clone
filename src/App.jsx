@@ -66,13 +66,7 @@ function App() {
         {cards.map((card, index) => (
           <Card
             key={index}
-            image={card.image}
-            tag={card.tag}
-            rating={card.rating}
-            review={card.review}
-            country={card.country}
-            title={card.title}
-            price={card.price}
+            {...card} // updated logic to spread syntax to send props to a component.
           />
         ))}
       </main>
